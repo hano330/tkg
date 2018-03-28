@@ -1,6 +1,7 @@
 require 'sinatra'
 require 'sinatra/reloader'
+require 'erb'
 
 get '/tkg' do
-  'LV0　卵かけご飯レベルの簡単さ'
+  erb ;lvo
 end
