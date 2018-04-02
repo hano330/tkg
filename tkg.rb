@@ -18,3 +18,7 @@ end
 get '/tkg01' do
   erb :tkg01
 end
+
+get '/wakaba' do
+  erb :wakaba
+end
